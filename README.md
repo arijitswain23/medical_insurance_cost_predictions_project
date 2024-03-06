@@ -10,7 +10,7 @@ Modeling Techniques: Linear Regression, Decision Tree, Random Forest
 
 Description:
 
-Led the development of a cutting-edge Medical Insurance Cost Detection system utilizing machine learning techniques to predict insurance costs based on demographic and health-related factors. The project aimed to empower healthcare providers and insurance companies with accurate predictions to enhance decision-making and cost management.
+Developed a cutting-edge Medical Insurance Cost Detection system utilizing machine learning techniques to predict insurance costs based on demographic and health-related factors. The project aimed to empower healthcare providers and insurance companies with accurate predictions to enhance decision-making and cost management.
 
 Project Workflow:
 
